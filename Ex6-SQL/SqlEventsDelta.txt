@@ -1,0 +1,9 @@
+SELECT e1.event_type, e2.value - e3.value AS value
+FROM events e1
+
+LEFT OUTER JOIN (SELECT event_type, value, MAX(time) AS time FROM events GROUP BY event_type) e2 ON e1.event_type = e2.event_type
+LEFT OUTER JOIN (SELECT event_type, value, MAX(time) as time from events WHERE time < (SELECT MAX(time) AS time FROM events GROUP BY event_type) GROUP BY event_type) e3 ON e1.event_type = e3.event_type
+
+WHERE e2.time != e3.time
+GROUP BY e1.event_type
+ORDER BY e1.event_type ASC;

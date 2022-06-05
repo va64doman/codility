@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.like-button {
+  background: #ccc;
+  margin-right: 20px;
+}
+
+.liked {
+  background: #B2A5A3 !important;
+}
+
+.likes-counter {
+  color: #006400;
+}

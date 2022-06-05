@@ -1,0 +1,23 @@
+WITH cteHostPoints AS (SELECT HOST_TEAM AS TEAM,
+                              CASE
+                                WHEN HOST_GOALS > GUEST_GOALS THEN 3
+                                WHEN HOST_GOALS = GUEST_GOALS THEN 1
+                                ELSE 0
+                              END AS POINTS
+                         FROM MATCHES),
+     cteGuestPoints AS (SELECT GUEST_TEAM AS TEAM,
+                               CASE
+                                 WHEN GUEST_GOALS > HOST_GOALS THEN 3
+                                 WHEN GUEST_GOALS = HOST_GOALS THEN 1
+                                 ELSE 0
+                               END AS POINTS
+                          FROM MATCHES),
+     cteAllPoints AS (SELECT TEAM, POINTS FROM cteHostPoints
+                      UNION ALL
+                      SELECT TEAM, POINTS FROM cteGuestPoints)
+
+SELECT t.TEAM_ID, t.TEAM_NAME, COALESCE(SUM(ap.POINTS), 0) AS TOTAL_POINTS
+FROM TEAMS t
+LEFT OUTER JOIN cteAllPoints ap ON ap.TEAM = t.TEAM_ID
+GROUP BY t.TEAM_ID, t.TEAM_NAME
+ORDER BY COALESCE(SUM(POINTS), 0) DESC, t.TEAM_ID
