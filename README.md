@@ -102,3 +102,64 @@ At the moment, I focus on correctness. If you know any efficient solution, let m
 
 - [x] [Number Solitaire](https://app.codility.com/programmers/lessons/17-dynamic_programming/number_solitaire/)
 - [x] [Min Abs Sum](https://app.codility.com/programmers/lessons/17-dynamic_programming/min_abs_sum/)
+
+## Exercises
+
+### [1. 2015 Contest](https://app.codility.com/programmers/trainings/1/)
+
+- [x] [Longest Password](https://app.codility.com/programmers/trainings/1/longest_password/)
+- [x] [Flood Depth](https://app.codility.com/programmers/trainings/1/flood_depth/)
+- [x] [Slalom Skiing](https://app.codility.com/programmers/trainings/1/slalom_skiing/)
+
+### [2. 2016 Contest](https://app.codility.com/programmers/trainings/2/)
+
+- [x] [Rectangle Builder Greater Area](https://app.codility.com/programmers/trainings/2/rectangle_builder_greater_area/)
+- [x] [Dwarfs Rafting](https://app.codility.com/programmers/trainings/2/dwarfs_rafting/)
+- [x] [Hilbert Maze](https://app.codility.com/programmers/trainings/2/hilbert_maze/)
+- [x] [Tree Product](https://app.codility.com/programmers/trainings/2/tree_product/)
+
+### [3. 2017 Contest](https://app.codility.com/programmers/trainings/3/)
+
+- [x] [Tennis Tournament](https://app.codility.com/programmers/trainings/3/tennis_tournament/)
+- [x] [Socks Laundering](https://app.codility.com/programmers/trainings/3/socks_laundering/)
+- [x] [Array Recovery](https://app.codility.com/programmers/trainings/3/array_recovery/)
+- [x] [Diamonds Count](https://app.codility.com/programmers/trainings/3/diamonds_count/)
+
+### [4. Algorithmic skills](https://app.codility.com/programmers/trainings/4/)
+
+- [x] [First Unique](https://app.codility.com/programmers/trainings/4/first_unique/)
+- [x] [Str Symmetry Point](https://app.codility.com/programmers/trainings/4/str_symmetry_point/)
+- [x] [Tree Height](https://app.codility.com/programmers/trainings/4/tree_height/)
+- [x] [Array Inversion Count](https://app.codility.com/programmers/trainings/4/array_inversion_count/)
+- [x] [Disappearing Pairs](https://app.codility.com/programmers/trainings/4/disappearing_pairs/)
+- [x] [Polygon Concavity Index](https://app.codility.com/programmers/trainings/4/polygon_concavity_index/)
+
+### [5. Coding skills](https://app.codility.com/programmers/trainings/5/)
+
+- [x] [Parking Bill](https://app.codility.com/programmers/trainings/5/parking_bill/)
+- [x] [Parity Degree](https://app.codility.com/programmers/trainings/5/parity_degree/)
+- [x] [Three Letters](https://app.codility.com/programmers/trainings/5/three_letters/)
+
+### [6. SQL](https://app.codility.com/programmers/trainings/6/)
+
+- [x] [Sql Sum](https://app.codility.com/programmers/trainings/6/sql_sum/)
+- [x] [Sql Events Delta](https://app.codility.com/programmers/trainings/6/sql_events_delta/)
+- [x] [Sql World Cup](https://app.codility.com/programmers/trainings/6/sql_world_cup/)
+
+### [7. Data Structures](https://app.codility.com/programmers/trainings/7/)
+
+- [x] [Arr List Len](https://app.codility.com/programmers/trainings/7/arr_list_len/)
+- [x] [Count Bounded Slices](https://app.codility.com/programmers/trainings/7/count_bounded_slices/)
+- [x] [Tree Longest Zig Zag](https://app.codility.com/programmers/trainings/7/tree_longest_zig_zag/)
+- [x] [Countries Count](https://app.codility.com/programmers/trainings/7/countries_count/)
+
+### [8. Frontend](https://app.codility.com/programmers/trainings/8/)
+
+- [x] [Angular Like Button](https://app.codility.com/programmers/trainings/8/angular_like_button/)
+- [x] [React Like Button](https://app.codility.com/programmers/trainings/8/react_like_button/)
+
+### [9. Bitwise operations (bit-ops)](https://app.codility.com/programmers/trainings/9/)
+
+- [x] [Binary Gap](https://app.codility.com/programmers/trainings/9/binary_gap/)
+- [x] [Count Conforming Bitmasks](https://app.codility.com/programmers/trainings/9/count_conforming_bitmasks/)
+- [x] [Sparse Binary Decomposition](https://app.codility.com/programmers/trainings/9/sparse_binary_decomposition/)
