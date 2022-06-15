@@ -1,5 +1,9 @@
 # Codility
-Exercise, lesson and challenge written in Python except for exercise 6: SQL, exercise 8: Frontend.
+Anything to do in front-end is written in Typescript (Angular or React).
+
+Anything to do in database is written in SQLite.
+
+Anything else is written in Python.
 
 At the moment, I focus on correctness. If you know any efficient solution, let me know.
 
