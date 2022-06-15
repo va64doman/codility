@@ -3,6 +3,8 @@ Exercise, lesson and challenge written in Python except for exercise 6: SQL, exe
 
 At the moment, I focus on correctness. If you know any efficient solution, let me know.
 
+I am up to challenges.
+
 ## Lessons
 
 ### [1. Iterations](https://app.codility.com/programmers/lessons/1-iterations/)
