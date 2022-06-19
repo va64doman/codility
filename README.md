@@ -172,8 +172,8 @@ I am up to challenges.
 
 ## Challenges
 
-- [ ] [Alpha 2010](https://app.codility.com/programmers/task/prefix_set/)
-- [ ] [Beta 2010](https://app.codility.com/programmers/task/number_of_disc_intersections/)
+- [x] [Alpha 2010](https://app.codility.com/programmers/task/prefix_set/)
+- [x] [Beta 2010](https://app.codility.com/programmers/task/number_of_disc_intersections/)
 - [ ] [Gamma 2011](https://app.codility.com/programmers/task/count_palindromic_slices/)
 - [ ] [Delta 2011](https://app.codility.com/programmers/task/min_abs_sum/)
 - [ ] [Epsilon 2011](https://app.codility.com/programmers/task/minfuds/)
