@@ -12,7 +12,9 @@ I am up to challenges.
 ## Warning - Same Tasks
 
 Lesson 1 Binary Gap is the same as Exercise 9 Binary Gap.
+
 Lesson 6 Number of Disc Intersection is the same as Beta 2010.
+
 Lesson 17 Min Abs Sum is the same as Delta 2011.
 
 ## Lessons
