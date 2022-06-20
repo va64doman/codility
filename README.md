@@ -9,6 +9,12 @@ At the moment, I focus on correctness. If you know any efficient solution, let m
 
 I am up to challenges.
 
+## Warning - Same Tasks
+
+Lesson 1 Binary Gap is the same as Exercise 9 Binary Gap.
+Lesson 6 Number of Disc Intersection is the same as Beta 2010.
+Lesson 17 Min Abs Sum is the same as Delta 2011.
+
 ## Lessons
 
 ### [1. Iterations](https://app.codility.com/programmers/lessons/1-iterations/)
@@ -175,7 +181,7 @@ I am up to challenges.
 - [x] [Alpha 2010](https://app.codility.com/programmers/task/prefix_set/)
 - [x] [Beta 2010](https://app.codility.com/programmers/task/number_of_disc_intersections/)
 - [ ] [Gamma 2011](https://app.codility.com/programmers/task/count_palindromic_slices/)
-- [ ] [Delta 2011](https://app.codility.com/programmers/task/min_abs_sum/)
+- [x] [Delta 2011](https://app.codility.com/programmers/task/min_abs_sum/)
 - [ ] [Epsilon 2011](https://app.codility.com/programmers/task/minfuds/)
 - [ ] [Zeta 2011](https://app.codility.com/programmers/task/ball_switch_board/)
 - [ ] [Eta 2011](https://app.codility.com/programmers/task/hamiltonian_routes_count/)
