@@ -1,5 +1,5 @@
 # Codility
-Anything to do in front-end is written in Typescript (Angular or React).
+Anything to do in front-end is written in Typescript (Angular or React). I could write it in JavaScript, but it was likely similar.
 
 Anything to do in database is written in SQLite.
 
@@ -182,7 +182,7 @@ Lesson 17 Min Abs Sum is the same as Delta 2011.
 
 - [x] [Alpha 2010](https://app.codility.com/programmers/task/prefix_set/)
 - [x] [Beta 2010](https://app.codility.com/programmers/task/number_of_disc_intersections/)
-- [ ] [Gamma 2011](https://app.codility.com/programmers/task/count_palindromic_slices/)
+- [x] [Gamma 2011](https://app.codility.com/programmers/task/count_palindromic_slices/)
 - [x] [Delta 2011](https://app.codility.com/programmers/task/min_abs_sum/)
 - [ ] [Epsilon 2011](https://app.codility.com/programmers/task/minfuds/)
 - [ ] [Zeta 2011](https://app.codility.com/programmers/task/ball_switch_board/)
