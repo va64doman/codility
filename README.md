@@ -185,7 +185,7 @@ Lesson 17 Min Abs Sum is the same as Delta 2011.
 - [x] [Gamma 2011](https://app.codility.com/programmers/task/count_palindromic_slices/)
 - [x] [Delta 2011](https://app.codility.com/programmers/task/min_abs_sum/)
 - [ ] [Epsilon 2011](https://app.codility.com/programmers/task/minfuds/)
-- [ ] [Zeta 2011](https://app.codility.com/programmers/task/ball_switch_board/)
+- [x] [Zeta 2011](https://app.codility.com/programmers/task/ball_switch_board/)
 - [ ] [Eta 2011](https://app.codility.com/programmers/task/hamiltonian_routes_count/)
 - [ ] [Theta 2011](https://app.codility.com/programmers/task/gas_stations/)
 - [ ] [Iota 2011](https://app.codility.com/programmers/task/shortest_adj_seq/)
