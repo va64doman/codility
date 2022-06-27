@@ -188,7 +188,7 @@ Lesson 17 Min Abs Sum is the same as Delta 2011.
 - [x] [Zeta 2011](https://app.codility.com/programmers/task/ball_switch_board/)
 - [x] [Eta 2011](https://app.codility.com/programmers/task/hamiltonian_routes_count/)
 - [x] [Theta 2011](https://app.codility.com/programmers/task/gas_stations/)
-- [ ] [Iota 2011](https://app.codility.com/programmers/task/shortest_adj_seq/)
+- [x] [Iota 2011](https://app.codility.com/programmers/task/shortest_adj_seq/)
 - [ ] [Kappa 2011](https://app.codility.com/programmers/task/space_crews/)
 - [ ] [Lambda 2011](https://app.codility.com/programmers/task/min_router_peripherality/)
 - [ ] [Mu 2011](https://app.codility.com/programmers/task/number_of_zeros/)
