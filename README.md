@@ -192,7 +192,7 @@ Lesson 17 Min Abs Sum is the same as Delta 2011.
 - [x] [Kappa 2011](https://app.codility.com/programmers/task/space_crews/)
 - [x] [Lambda 2011](https://app.codility.com/programmers/task/min_router_peripherality/)
 - [x] [Mu 2011](https://app.codility.com/programmers/task/number_of_zeros/)
-- [ ] [Nu 2011](https://app.codility.com/programmers/task/double_median/)
+- [x] [Nu 2011](https://app.codility.com/programmers/task/double_median/)
 - [ ] [Xi 2012](https://app.codility.com/programmers/task/k_sparse_binary_count/)
 - [ ] [Omicron 2012](https://app.codility.com/programmers/task/power_fib/)
 - [ ] [Pi 2012](https://app.codility.com/programmers/task/array_closest_ascenders/)
