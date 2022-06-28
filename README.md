@@ -201,7 +201,7 @@ Lesson 7 Stone Wall is the same as Sigma 2012.
 - [ ] [Rho 2012](https://app.codility.com/programmers/task/hit_the_number/)
 - [x] [Sigma 2012](https://app.codility.com/programmers/task/stone_wall/)
 - [x] [Tau 2012](https://app.codility.com/programmers/task/torus_lot/)
-- [ ] [Upsilon 2012](https://app.codility.com/programmers/task/cartesian_sequence/)
+- [x] [Upsilon 2012](https://app.codility.com/programmers/task/cartesian_sequence/)
 - [ ] [Phi 2012](https://app.codility.com/programmers/task/tilings_count/)
 - [ ] [Chi 2012](https://app.codility.com/programmers/task/cannonballs/)
 - [ ] [Psi 2012](https://app.codility.com/programmers/task/wire_burnouts/)
