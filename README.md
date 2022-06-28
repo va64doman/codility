@@ -17,6 +17,8 @@ Lesson 6 Number of Disc Intersection is the same as Beta 2010.
 
 Lesson 17 Min Abs Sum is the same as Delta 2011.
 
+Lesson 7 Stone Wall is the same as Sigma 2012.
+
 ## Lessons
 
 ### [1. Iterations](https://app.codility.com/programmers/lessons/1-iterations/)
@@ -197,7 +199,7 @@ Lesson 17 Min Abs Sum is the same as Delta 2011.
 - [ ] [Omicron 2012](https://app.codility.com/programmers/task/power_fib/)
 - [x] [Pi 2012](https://app.codility.com/programmers/task/array_closest_ascenders/)
 - [ ] [Rho 2012](https://app.codility.com/programmers/task/hit_the_number/)
-- [ ] [Sigma 2012](https://app.codility.com/programmers/task/stone_wall/)
+- [x] [Sigma 2012](https://app.codility.com/programmers/task/stone_wall/)
 - [ ] [Tau 2012](https://app.codility.com/programmers/task/torus_lot/)
 - [ ] [Upsilon 2012](https://app.codility.com/programmers/task/cartesian_sequence/)
 - [ ] [Phi 2012](https://app.codility.com/programmers/task/tilings_count/)
