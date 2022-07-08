@@ -196,7 +196,7 @@ Lesson 7 Stone Wall is the same as Sigma 2012.
 - [x] [Mu 2011](https://app.codility.com/programmers/task/number_of_zeros/)
 - [x] [Nu 2011](https://app.codility.com/programmers/task/double_median/)
 - [x] [Xi 2012](https://app.codility.com/programmers/task/k_sparse_binary_count/)
-- [ ] [Omicron 2012](https://app.codility.com/programmers/task/power_fib/)
+- [x] [Omicron 2012](https://app.codility.com/programmers/task/power_fib/)
 - [x] [Pi 2012](https://app.codility.com/programmers/task/array_closest_ascenders/)
 - [ ] [Rho 2012](https://app.codility.com/programmers/task/hit_the_number/)
 - [x] [Sigma 2012](https://app.codility.com/programmers/task/stone_wall/)
