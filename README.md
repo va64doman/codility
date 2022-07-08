@@ -186,7 +186,7 @@ Lesson 7 Stone Wall is the same as Sigma 2012.
 - [x] [Beta 2010](https://app.codility.com/programmers/task/number_of_disc_intersections/)
 - [x] [Gamma 2011](https://app.codility.com/programmers/task/count_palindromic_slices/)
 - [x] [Delta 2011](https://app.codility.com/programmers/task/min_abs_sum/)
-- [ ] [Epsilon 2011](https://app.codility.com/programmers/task/minfuds/)
+- [x] [Epsilon 2011](https://app.codility.com/programmers/task/minfuds/)
 - [x] [Zeta 2011](https://app.codility.com/programmers/task/ball_switch_board/)
 - [x] [Eta 2011](https://app.codility.com/programmers/task/hamiltonian_routes_count/)
 - [x] [Theta 2011](https://app.codility.com/programmers/task/gas_stations/)
