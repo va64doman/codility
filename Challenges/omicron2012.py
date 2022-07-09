@@ -6,6 +6,13 @@ F(1) = 1
 F(N) = F(N−1) + F(N−2) for N >= 2
 """
 MOD = 10000103
+"""
+Use of modulo 10 000 103 not only simplifies arithmetical operations: for any P > 0, the
+sequence (Fib(i) mod P) is periodic. It follows from the fact that values of Fib(i) mod P and
+Fib(i+1) mod P fully determine the following elements of this sequence, and there are at most
+P^2 different pairs of such values.
+In particular, for P = 10 000 103 the sequence (Fib(i) mod P) has period T = 20 000 208.
+"""
 T = 20000208
 
 def mul(x, y, M):
