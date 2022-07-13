@@ -214,7 +214,7 @@ Lesson 10 Flags is the same as Boron 2013.
 - [ ] [Beryllium 2013](https://app.codility.com/programmers/task/prefix_suffix_set/)
 - [x] [Boron 2013](https://app.codility.com/programmers/task/flags/)
 - [ ] [Carbo 2013](https://app.codility.com/programmers/task/prefix_max_product/)
-- [ ] [Nitrogenium 2013](https://app.codility.com/programmers/task/flooded_island/)
+- [x] [Nitrogenium 2013](https://app.codility.com/programmers/task/flooded_island/)
 - [ ] [Oxygenium 2014](https://app.codility.com/programmers/task/count_bounded_slices/)
 - [ ] [Fluorum 2014](https://app.codility.com/programmers/task/trip_planning/)
 - [ ] [Neon 2014](https://app.codility.com/programmers/task/boat_alignment/)
