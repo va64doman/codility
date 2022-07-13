@@ -19,6 +19,8 @@ Lesson 17 Min Abs Sum is the same as Delta 2011.
 
 Lesson 7 Stone Wall is the same as Sigma 2012.
 
+Lesson 10 Flags is the same as Boron 2013.
+
 ## Lessons
 
 ### [1. Iterations](https://app.codility.com/programmers/lessons/1-iterations/)
@@ -210,7 +212,7 @@ Lesson 7 Stone Wall is the same as Sigma 2012.
 - [x] [Helium 2013](https://app.codility.com/programmers/task/find_three/)
 - [x] [Lithium 2013](https://app.codility.com/programmers/task/clocks/)
 - [ ] [Beryllium 2013](https://app.codility.com/programmers/task/prefix_suffix_set/)
-- [ ] [Boron 2013](https://app.codility.com/programmers/task/flags/)
+- [x] [Boron 2013](https://app.codility.com/programmers/task/flags/)
 - [ ] [Carbo 2013](https://app.codility.com/programmers/task/prefix_max_product/)
 - [ ] [Nitrogenium 2013](https://app.codility.com/programmers/task/flooded_island/)
 - [ ] [Oxygenium 2014](https://app.codility.com/programmers/task/count_bounded_slices/)
