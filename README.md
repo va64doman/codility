@@ -208,7 +208,7 @@ Lesson 7 Stone Wall is the same as Sigma 2012.
 - [x] [Omega 2013](https://app.codility.com/programmers/task/falling_disks/)
 - [x] [Hydrogenium 2013](https://app.codility.com/programmers/task/grocery_store/)
 - [x] [Helium 2013](https://app.codility.com/programmers/task/find_three/)
-- [ ] [Lithium 2013](https://app.codility.com/programmers/task/clocks/)
+- [x] [Lithium 2013](https://app.codility.com/programmers/task/clocks/)
 - [ ] [Beryllium 2013](https://app.codility.com/programmers/task/prefix_suffix_set/)
 - [ ] [Boron 2013](https://app.codility.com/programmers/task/flags/)
 - [ ] [Carbo 2013](https://app.codility.com/programmers/task/prefix_max_product/)
