@@ -21,6 +21,8 @@ Lesson 7 Stone Wall is the same as Sigma 2012.
 
 Lesson 10 Flags is the same as Boron 2013.
 
+Lesson 7 Count Bounded Slices is the same as Oxygenium 2014.
+
 ## Lessons
 
 ### [1. Iterations](https://app.codility.com/programmers/lessons/1-iterations/)
@@ -215,7 +217,7 @@ Lesson 10 Flags is the same as Boron 2013.
 - [x] [Boron 2013](https://app.codility.com/programmers/task/flags/)
 - [x] [Carbo 2013](https://app.codility.com/programmers/task/prefix_max_product/)
 - [x] [Nitrogenium 2013](https://app.codility.com/programmers/task/flooded_island/)
-- [ ] [Oxygenium 2014](https://app.codility.com/programmers/task/count_bounded_slices/)
+- [x] [Oxygenium 2014](https://app.codility.com/programmers/task/count_bounded_slices/)
 - [ ] [Fluorum 2014](https://app.codility.com/programmers/task/trip_planning/)
 - [ ] [Neon 2014](https://app.codility.com/programmers/task/boat_alignment/)
 - [ ] [Natrium 2014](https://app.codility.com/programmers/task/max_distance_monotonic/)
