@@ -220,7 +220,7 @@ Lesson 7 Count Bounded Slices is the same as Oxygenium 2014.
 - [x] [Oxygenium 2014](https://app.codility.com/programmers/task/count_bounded_slices/)
 - [ ] [Fluorum 2014](https://app.codility.com/programmers/task/trip_planning/)
 - [ ] [Neon 2014](https://app.codility.com/programmers/task/boat_alignment/)
-- [ ] [Natrium 2014](https://app.codility.com/programmers/task/max_distance_monotonic/)
+- [x] [Natrium 2014](https://app.codility.com/programmers/task/max_distance_monotonic/)
 - [ ] [Magnesium 2014](https://app.codility.com/programmers/task/ascending_paths/)
 - [ ] [Aluminium 2014](https://app.codility.com/programmers/task/max_slice_swap/)
 - [ ] [Silicium 2014](https://app.codility.com/programmers/task/cutting_the_cake/)
