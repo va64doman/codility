@@ -228,7 +228,7 @@ Lesson 7 Count Bounded Slices is the same as Oxygenium 2014.
 - [x] [Sulphur 2014](https://app.codility.com/programmers/task/break_the_rope/)
 - [ ] [Chlorum 2014](https://app.codility.com/programmers/task/tree_trip/)
 - [x] [Argon 2015](https://app.codility.com/programmers/task/trek_and_swim/)
-- [ ] [Kalium 2015](https://app.codility.com/programmers/task/sql_segments_sum/)
+- [x] [Kalium 2015](https://app.codility.com/programmers/task/sql_segments_sum/)
 - [ ] [Calcium 2015](https://app.codility.com/programmers/task/speed_cameras/)
 - [ ] [Scandium 2016](https://app.codility.com/programmers/task/even_sums_game/)
 - [ ] [Titanium 2016](https://app.codility.com/programmers/task/brackets_rotation/)
