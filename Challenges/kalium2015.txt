@@ -1,0 +1,24 @@
+SELECT IFNULL(SUM(r-sub_l),0)
+FROM (
+    SELECT DISTINCT r, (
+        SELECT MAX(x)
+        FROM (
+            SELECT DISTINCT l AS x
+            FROM segments 
+            UNION
+            SELECT DISTINCT r AS x
+            FROM segments
+        ) AS r2 
+        WHERE r2.x<r1.r
+    ) AS sub_l
+    FROM (
+        SELECT *
+        FROM (
+            SELECT r1.l AS l, r2.l AS r 
+            FROM segments AS r1 JOIN segments AS r2 ON r2.l >= r1.l AND r2.l <= r1.r
+            UNION
+            SELECT r1.l AS l,r2.r AS r 
+            FROM segments AS r1 JOIN segments AS r2 ON r2.r >= r1.l AND r2.r <= r1.r
+        ) AS r1 WHERE l!=r
+    ) AS r1
+) AS r1;
