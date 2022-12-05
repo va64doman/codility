@@ -234,7 +234,7 @@ Lesson 7 Count Bounded Slices is the same as Oxygenium 2014.
 - [x] [Titanium 2016](https://app.codility.com/programmers/task/brackets_rotation/)
 - [x] [Vanadium 2016](https://app.codility.com/programmers/task/winter_lights/)
 - [x] [Chromium 2017](https://app.codility.com/programmers/task/zig_zag_escape/)
-- [ ] [Manganum 2017](https://app.codility.com/programmers/task/final_turn/)
+- [x] [Manganum 2017](https://app.codility.com/programmers/task/final_turn/)
 - [ ] [Ferrum 2018](https://app.codility.com/programmers/task/longest_nonnegative_sum_slice/)
 - [ ] [Cobaltum 2018](https://app.codility.com/programmers/task/increasing_sequences/)
 - [ ] [Nickel 2018](https://app.codility.com/programmers/task/pascal_triangle/)
