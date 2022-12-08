@@ -240,7 +240,7 @@ Lesson 7 Count Bounded Slices is the same as Oxygenium 2014.
 - [x] [Nickel 2018](https://app.codility.com/programmers/task/pascal_triangle/)
 - [x] [Cutting Complexity](https://app.codility.com/programmers/task/string_modification/)
 - [x] [Cuprum 2018](https://app.codility.com/programmers/task/beautiful_password/)
-- [ ] [Zinc 2018](https://app.codility.com/programmers/task/theater_tickets/)
+- [x] [Zinc 2018](https://app.codility.com/programmers/task/theater_tickets/)
 - [ ] [Gallium 2018](https://app.codility.com/programmers/task/max_zero_product/)
 - [ ] [Germanium 2018](https://app.codility.com/programmers/task/max_not_present/)
 - [ ] [Selenium 2018](https://app.codility.com/programmers/task/sprinklers_arrangement/)
