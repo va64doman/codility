@@ -256,7 +256,7 @@ Lesson 7 Count Bounded Slices is the same as Oxygenium 2014.
 - [x] [Zirconium 2019](https://app.codility.com/programmers/task/dream_team/)
 - [x] [Niobium 2019](https://app.codility.com/programmers/task/flipping_matrix/)
 - [x] [Molybdenum 2019](https://app.codility.com/programmers/task/leader_slice_inc/)
-- [ ] [Technetium 2019](https://app.codility.com/programmers/task/max_path_from_the_left_top_corner/)
+- [x] [Technetium 2019](https://app.codility.com/programmers/task/max_path_from_the_left_top_corner/)
 - [ ] [Ruthenium 2019](https://app.codility.com/programmers/task/replacing_books/)
 - [ ] [Rhodium 2019](https://app.codility.com/programmers/task/tree_range/)
 - [ ] [Palladium 2020](https://app.codility.com/programmers/task/cover_buildings/)
