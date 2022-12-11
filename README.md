@@ -262,7 +262,7 @@ Lesson 7 Count Bounded Slices is the same as Oxygenium 2014.
 - [x] [Palladium 2020](https://app.codility.com/programmers/task/cover_buildings/)
 - [x] [Silver 2020](https://app.codility.com/programmers/task/rectangles_strip/)
 - [x] [The OLX Group challenge](https://app.codility.com/programmers/task/multivitamin/)
-- [ ] [The Matrix 2021](https://app.codility.com/programmers/task/max_square_on_matrix/)
+- [x] [The Matrix 2021](https://app.codility.com/programmers/task/max_square_on_matrix/)
 - [ ] [The Doge 2021](https://app.codility.com/programmers/task/pets_and_toys/)
 - [ ] [The Great Code 2021](https://app.codility.com/programmers/task/cake_factory/)
 - [ ] [May the 4th](https://app.codility.com/programmers/task/double_hanoi/)
