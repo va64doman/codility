@@ -270,7 +270,7 @@ Lesson 7 Count Bounded Slices is the same as Oxygenium 2014.
 - [x] [Fast & Curious](https://app.codility.com/programmers/task/new_motorway/)
 - [x] [The Coder of Rivia](https://app.codility.com/programmers/task/almost_magic_square/)
 - [x] [National Coding Week](https://app.codility.com/programmers/task/largest_string/)
-- [ ] [Spooktober](https://app.codility.com/programmers/task/stacks_of_coins/)
+- [x] [Spooktober](https://app.codility.com/programmers/task/stacks_of_coins/)
 - [ ] [Gamer's](https://app.codility.com/programmers/task/fill_the_gaps/)
 - [ ] [Code Alone](https://app.codility.com/programmers/task/a_b_swaps/)
 - [ ] [Pair a Coder](https://app.codility.com/programmers/task/remove_substrings/)
