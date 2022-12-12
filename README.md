@@ -279,6 +279,6 @@ Lesson 7 Count Bounded Slices is the same as Oxygenium 2014.
 - [x] [Bug Wars: The Last Hope](https://app.codility.com/programmers/task/refueling/)
 - [x] [Fury Road](https://app.codility.com/programmers/task/scooter_road/)
 - [x] [Jurassic Code](https://app.codility.com/programmers/task/largest_balanced_radius/)
-- [ ] [National Coding Week 2022](https://app.codility.com/programmers/task/odd_network/)
+- [x] [National Coding Week 2022](https://app.codility.com/programmers/task/odd_network/)
 - [ ] [Game of Codes](https://app.codility.com/programmers/task/three_letters_blocks/)
 - [ ] [Carol of the Code](https://app.codility.com/programmers/challenges/carol_of_the_code2022/)
