@@ -1,6 +1,6 @@
 #CountDiv: Compute number of integers divisible by k in range [a..b].
 def countDiv(A,B,K):
-    c = int(B-A) // K
+    c = int(B/K) - int(A/K)
     if A % K == 0:
         c += 1
     return c
